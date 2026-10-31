@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#151b26"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F80ED" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2F80ED" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2F80ED" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <path d="M0 170 C 220 130, 420 210, 620 165 S 860 140, 900 160 L900 220 L0 220 Z" fill="url(#wave)">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 170 C 220 130, 420 210, 620 165 S 860 140, 900 160 L900 220 L0 220 Z;
+              M0 160 C 240 200, 440 140, 640 180 S 860 190, 900 165 L900 220 L0 220 Z;
+              M0 170 C 220 130, 420 210, 620 165 S 860 140, 900 160 L900 220 L0 220 Z"/>
+  </path>
+  <text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6edf3">Cho Hyunwoo
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="450" y="140" text-anchor="middle" font-family="Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif" font-size="20" font-weight="600" fill="#8b949e">규칙이 깨지지 않는 서비스를 만드는 백엔드 개발자</text>
+</svg>
