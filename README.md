@@ -1,11 +1,10 @@
-README
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F80ED&height=140&section=header&text=Hyunwoo Cho&fontSize=36&fontColor=ffffff&fontAlignY=38" width="100%" />
-<h3>백엔드 개발자 조현우입니다.</h3>
+<br />
+<h2> 백엔드 개발자 조현우입니다.</h2>
 <p><b>[한 줄 소개. 예: 현장의 업무 흐름을 이해하고, 그것을 API와 데이터로 옮기는 개발자입니다.]</b></p>
 <a href="mailto:johunwoo123456@gmail.com"><img src="https://img.shields.io/badge/EMAIL-johunwoo123456@gmail.com-2F80ED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://app.notion.com/p/3dd1b8b9abf48116bf01e26856a457cf"><img src="https://img.shields.io/badge/NOTION-학습 정리-111111?style=for-the-badge&logo=notion&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=hanwooya361&label=PROFILE VIEWS&color=2F80ED&style=for-the-badge" />
+<a href="https://app.notion.com/p/3dd1b8b9abf48116bf01e26856a457cf"><img src="https://img.shields.io/badge/NOTION-학습 정리-2F80ED?style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://github.com/hanwooya361"><img src="https://img.shields.io/badge/GITHUB-hanwooya361-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br />
 <h2> Tech Stack</h2>
@@ -38,7 +37,7 @@ README
 <p><b>My Role</b> — 입구 카메라·AI 인식 모듈, 차단기 제어, YOLOv8 모델 학습 (Python 파트)</p>
 <p><b>문제 해결</b> — 차량이 아닌 물체의 오인식과 원거리 번호판 OCR 실패를 줄여 인식 정확도 개선</p>
 <p><code>Python</code> <code>YOLOv8</code> <code>OpenCV</code> <code>FastAPI</code> <code>Raspberry Pi</code> <code>Arduino</code></p>
-<a href="[레포 주소]"><img src="https://img.shields.io/badge/AI · IoT-REPO-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="[레포 주소]"><img src="https://img.shields.io/badge/AI %2F IoT-REPO-2F80ED?style=for-the-badge&logo=github&logoColor=white" /></a>
 </td>
 </tr>
 </table>
