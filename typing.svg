@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="44" viewBox="0 0 700 44">
+  <style>
+    .t { font-family: Pretendard, 'Malgun Gothic', 'Apple SD Gothic Neo', sans-serif; font-size: 22px; fill: #2F80ED; letter-spacing: 1px; }
+    .cur { fill: #2F80ED; animation: blink 0.8s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="c"><rect x="0" y="0" height="44" width="0">
+      <animate attributeName="width" values="0;700;700;0;0" keyTimes="0;0.45;0.8;0.95;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0 0 1 1;0.4 0 0.6 1;0 0 1 1"/>
+    </rect></clipPath>
+  </defs>
+  <text class="t" x="350" y="29" text-anchor="middle" clip-path="url(#c)">감이 아닌, 측정한 숫자로 결정합니다</text>
+</svg>
